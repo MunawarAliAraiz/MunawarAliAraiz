@@ -6,13 +6,19 @@ Hey there! :wave: I'm a Software Engineer and Full Stack Developer, currently pu
 
 <div id="header">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250"/>
-</div>
-
-<div id="badges">
-  <a href="[LinkedInURL](https://www.linkedin.com/in/munawaralidev/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a><br>
- <img src="https://komarev.com/ghpvc/?username=MunawarAliAraiz&style=flat-square&color=blue" alt=""/>
+  <div>
+      <a href="https://www.linkedin.com/in/munawaralidev/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://x.com/AraizMunawar?t=1ztvgneU2mf6XMt4Nlf70w&s=09">
+        <img src="https://img.shields.io/badge/X-white?style=for-the-badge&logo=x&logoColor=white&color=black" alt="X Badge"/>
+      </a>
+      <a href="mailto:mnrkokhar@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+      </a>
+      <br>
+      <img src="https://komarev.com/ghpvc/?username=MunawarAliAraiz&style=flat-square&color=blue" alt=""/>
+  </div>
 </div>
 
 ## :man_technologist: About Me
