@@ -5,7 +5,7 @@ Hey there! :wave: I'm a Software Engineer and Full Stack Developer, currently pu
 ## Software Engineer 💻 | Full Stack Developer 🚀
 
 <div id="header">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250"/>
+  <img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250"/>
   <div>
       <a href="https://www.linkedin.com/in/munawaralidev/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
