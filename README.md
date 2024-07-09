@@ -1,6 +1,6 @@
 # Munawar Ali :dizzy:
 
-Hey there! :wave: I'm a Software Engineer and Full Stack Developer, currently pursuing a degree in Computer Science at the [University of Engineering & Technology, Lahore.](https://www.uet.edu.pk/)
+Hey there! :wave: I'm a Software Engineer and Full Stack Developer, currently working at [i2c inc](https://www.i2cinc.com/) and did my bachelor's a degree in Computer Science from [University of Engineering & Technology, Lahore.](https://www.uet.edu.pk/)
 
 ## Software Engineer 💻 | Full Stack Developer 🚀
 
